@@ -13,9 +13,10 @@ I would like to contribute to a better world through software development.
 ## My Side Project: 😋
 - [Springboot Rest api backend for blog](https://github.com/panda022/fullstack-backend)
 - [React front end for blog](https://github.com/panda022/react-web)
+- [Todo app with Typescript from react app](https://github.com/panda022/Todo-Typescript)
 
 ## Tech Stack:
--	Programming: Java, C, JavaScript, Python, HTML, CSS
+-	Programming: Java, C, JavaScript, Python, Typescript, HTML, CSS
 -	Framework:  SpringBoot, React.js, Bootstrap
 -	Database & Tools:  MySQL, Git, Postman, Docker, Unix, IntelliJ, VsCode   
 
