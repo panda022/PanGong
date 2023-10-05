@@ -20,7 +20,8 @@ I would like to contribute to a better world through software development.
 
 ## Plan to do 
 2023/08/19
-- get the first sde intern job offer(pass technical interview by reviewing front end) 
+- get the first sde intern job offer(pass technical interview by reviewing front end)
+-   (while I do not get this one, I get a better opportunity in the lab as undergrad researcher Updates 23/10/05 )
 - .net core restful api
 - Spring Cloud
 - csapp
